@@ -1,13 +1,13 @@
 <RCC>
-    <qresource prefix="/img">
-        <file>call.png</file>
-        <file>hphones.png</file>
-        <file>mic.png</file>
-        <file>settings.png</file>
-        <file>user_pic.png</file>
-        <file>logo.png</file>
-        <file>add_file.png</file>
-        <file>send.png</file>
-        <file>smile.png</file>
+    <qresource prefix="/">
+        <file>img/add_file.png</file>
+        <file>img/call.png</file>
+        <file>img/hphones.png</file>
+        <file>img/logo.png</file>
+        <file>img/mic.png</file>
+        <file>img/send.png</file>
+        <file>img/settings.png</file>
+        <file>img/smile.png</file>
+        <file>img/user_pic.png</file>
     </qresource>
 </RCC>
